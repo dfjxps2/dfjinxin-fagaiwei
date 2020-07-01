@@ -39,7 +39,7 @@
 		<lombok.version>1.18.4</lombok.version>
 		<jsch.version>0.1.54</jsch.version>
 		<spring-cloud.version>Greenwich.SR1</spring-cloud.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<poi.version>3.14</poi.version>
 		<!--打包时跳过测试-->
 		<!--<skipTests>true</skipTests>-->
